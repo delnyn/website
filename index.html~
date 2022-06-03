@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>delnyn's Website</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<p>
+		delnyn@internet:~$ cat about<br><br>hey, I’m delnyn<br>I’m a high school student<br>
+		what I like is building stuff on computers, spending hours learning about the shenanigans 
+		of programming languages and operating systems. I am also a big fan of GNU/Linux and FOSS
+		software<br><br>delnyn@internet:~$ cat projects<br><br>I haven’t created anything 
+		meaningful yet<br>but I worked a bit on the Lucide icon set<br>what I really want to do is
+		building my own OS!<br><br>delnyn@internet:~$ cat contact<br><br>GitHub Mastodon<br>XMPP:
+		delnyn@5222.de<br>Matrix: @delnyn:asra.gr<br><br>delnyn@internet:~$ cat blog<br><br>// 
+		TODO
+		</p>
+	</body>
+</html>
