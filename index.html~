@@ -5,15 +5,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="favicon.svg">
 	<title>delnyn's Website</title>
-	<meta name="title" content="delnyn's Website">
-	<meta name="description" content="Welcome to my personal website!">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="delnyn's Website">
-	<meta property="og:description" content="Welcome to my personal website!">
-	<meta property="og:image" content="delnyn-evangelion.svg">
-	<meta property="twitter:title" content="delnyn's Website">
-	<meta property="twitter:description" content="Welcome to my personal website!">
-	<meta property="twitter:image" content="delnyn-evangelion.svg">
 	<style>
 		@font-face{
 			font-family:'Inter';
